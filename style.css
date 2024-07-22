@@ -1,0 +1,35 @@
+table{
+    background-color: #fe8cda;
+    border-spacing: none;
+    border: 2px solid #a8207d;
+    border-collapse: collapse;
+}
+td{
+    padding: 10px 52px;
+    border: 3px solid #a8207d;
+}
+th{
+    border: 3px solid #a8207d;
+}
+thead{
+    background-color: #fe5aca;
+}
+.form{
+    padding-top: 75px;
+}
+.form input{
+    padding: 12px;
+    padding-right: 40px;
+    border: 1px solid #fe5aca;
+}
+.form input:focus{
+    box-shadow: 0 0 2.5px rgba(62, 106, 255, 0.55);
+    border: 1px solid #fe5aca;
+}
+.form select{
+    box-sizing: border-box;
+    font-size: 14px;
+    padding: 12px 13px;
+    border-radius: 3px;
+    border: 1px solid #fe5aca;
+}
